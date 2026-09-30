@@ -10,8 +10,6 @@ E.E.S.T. N° 20 Eduardo Ader — Vicente López
 |---|---|
 | Lucas Del Pino |
 
-> Completar con los datos reales del grupo (o del estudiante, si la entrega es individual).
-
 ## Menú de retos
 
 | Reto | Tema | Concepto clave |

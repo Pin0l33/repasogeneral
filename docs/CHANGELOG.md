@@ -16,7 +16,3 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y 
 ### Verificado
 - Compilación sin errores ni advertencias con `g++ -Wall -Wextra`.
 - Salida de los tres retos comprobada: suma 1..5 = 15, valor 18 hallado en el índice [6] e intercambio X=500 / Y=100.
-
-### Pendiente de completar por el grupo
-- Capturas en `capturas/` (ejecución, traza de memoria y `git remote -v`).
-- Nombres de los integrantes y tareas en README e informe.
